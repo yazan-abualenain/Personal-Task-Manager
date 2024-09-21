@@ -44,7 +44,7 @@ Our Personal Task Manager stands out from other solutions by combining ease of u
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/yazan-abualenain/Personal-Task-Manager
    ```
 2. Navigate to the project directory:
    ```sh
